@@ -1,6 +1,8 @@
 # JadeOffreDemande
-Une application de simulation de l’offre et de la demande en [Jade](http://jade.tilab.com/).
+> A simple Java app that uses SWING and JAVA Agent Development Framework [Jade](http://jade.tilab.com/).
 
-Cette application multi-agents met en jeu :
-* Un **producteur** (d’un produit)
-* N **consommateurs**
+This is a small Multi-agent system that simulate supply and demand.
+
+Scenario: 
+* One **producer** 
+* N **consumers**
